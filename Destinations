@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourist Guide</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="a000">
+   <h1 id="a001">
+         Destinations to Visit !
+   </h1>
+
+   <p id="a002"> </p>
+
+   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+   <h2> Uttar Pradesh :
+   </h2><br>
+   <a href="/zzUP.html"> <img src="/upmap.jpg" alt="UPmap" height="200" width="200"></a>
+    
+   <br> <br> <br> <br><br><br><br>
+
+
+   <h2> Rajasthan :
+   </h2><br>
+   <a href="/zzRajast.html"> <img src="/rajmap.jpg" alt="RajMap" height="200" width="200"></a>
+  
+   <br> <br> <br> <br><br><br><br>
+
+
+   <h2> Maharasthra :
+   </h2><br>
+   <a href="/zzMaha.html"> <img src="/mahamap.jpg" alt="MahaMap" height="200" width="200"></a>
+  
+   <br> <br> <br> <br><br><br><br>
+
+   <h2> Goa :
+   </h2><br>
+   <a href="/zzGoa.html"> <img src="/goamap.png" alt="GoaMap" height="200" width="200"></a>
+  
+   <br> <br> <br> <br><br><br><br>
+
+
+   <h2> North East:
+   </h2><br>
+   <a href="/zzNE.html"> <img src="/NEmap.png" alt="NEmap" height="200" width="200"></a>
+  
+   <br> <br> <br> <br><br><br><br>
+
+
+  
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+</body>
+</html
