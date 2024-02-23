@@ -1,0 +1,53 @@
+
+#a001 {
+    color:rgb(197, 118, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:  96px;
+    
+}
+
+#a000 {
+    background-image: url("https://praveg.com/wp-content/uploads/2023/02/shutterstock_1247620912-01.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    opacity: 2;
+}
+
+#b001 {
+    color:dimgrey;
+    font-size: 60px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#b002 {
+    background-image: url("/logo.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    opacity: 2;
+}
+
+#b003 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: rgb(126, 222, 254);
+}
+
+#b004 {
+    color: darkorange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+#b005 {
+    color: lightslategrey;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size : 15px;
+}
+
